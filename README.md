@@ -67,3 +67,30 @@ npm run dev
 ```
 
 ## Application Images
+
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/68f6dac8-137e-4a56-ac51-53c161929ec1)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/b4478941-b48a-4717-adee-9aee607bfe3c)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/e1edcf62-d979-487d-aa29-9517f20c5157)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/da590033-487c-4ccc-86e5-8f3c006bcf77)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/dc53b331-1b6a-4cf0-9ad6-19f47647eb2a)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/fff76ab5-3996-4741-9b68-44e3a28875c1)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/e57d4edc-0d19-4fe6-9c76-7222080a2771)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/98c3cb9a-4465-482f-9bf3-703b89a1bcc1)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/f9b469ff-bd83-4a39-bb54-722e032e6d2b)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/b5fb0413-b6d4-4ff1-b864-26a7bfa0e9bf)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/3629368f-6062-47df-8383-ea2a3535a858)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/ae931169-49f7-468b-a5b1-a77d3986b10e)
+
+![image](https://github.com/kobruhhhhh/Amazon-clone/assets/77445506/a1c3986a-ddf6-43c9-bbbd-84288a9c400e)
