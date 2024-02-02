@@ -19,7 +19,7 @@ let isProcessing = ref(false)
 const data = useForm({ payment_intent: null, })
 
 onMounted(() => {
-    stripe = Stripe("pk_test_51Nbiz8SGpmv8qQYoDVZkxeg8ZzDK7AoGCUEiPE8bH1ZGAPB7TaUVeP60t4jZVCf2klSEuir8xKGQqnIYrrNSft7000vHkcWU9h");
+    stripe = Stripe(env('PUBLIC_KEY'));
 
     elements = stripe.elements();
     var style = {
